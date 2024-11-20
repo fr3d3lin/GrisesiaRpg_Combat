@@ -1,0 +1,2 @@
+cooldown-time: 40 #in seconds
+cooldown-message: "&c&lCant use this feature because of combat cooldown"

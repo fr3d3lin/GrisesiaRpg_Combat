@@ -1,0 +1,6 @@
+name: GrisesiaCombat
+version: '1.0-SNAPSHOT'
+main: grisesiacombat.grisesiacombat.GrisesiaCombat
+api-version: 1.17
+prefix: GrisesiaCombat
+depend: [WorldGuard]
