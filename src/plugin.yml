@@ -1,6 +1,0 @@
-main: ca.fredelin.grisesiarpg_combat.main
-name: GrisesiaRpg_Combat
-version: 0.0.1
-author: fredelin
-api-version: '1.17'
-description: Un simple cooldown de combat.
